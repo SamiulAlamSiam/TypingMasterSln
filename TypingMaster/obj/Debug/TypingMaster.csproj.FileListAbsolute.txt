@@ -1,0 +1,23 @@
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\TypingMasterSln\TypingMaster\bin\Debug\TypingMaster.exe.config
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\TypingMasterSln\TypingMaster\bin\Debug\TypingMaster.exe
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\TypingMasterSln\TypingMaster\bin\Debug\TypingMaster.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.Form1.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.Properties.Resources.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.exe
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\TypingMasterSln\TypingMaster\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\TypingMasterSln\TypingMaster\bin\Debug\TypingMaster.exe.config
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\TypingMasterSln\TypingMaster\bin\Debug\TypingMaster.exe
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\TypingMasterSln\TypingMaster\bin\Debug\TypingMaster.pdb
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\TypingMasterSln\TypingMaster\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.Form1.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.Properties.Resources.resources
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.exe
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.pdb
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMMINGLANGUAGE\Csharp\TypingMasterSln\TypingMaster\obj\Debug\TypingMaster.csproj.CopyComplete
